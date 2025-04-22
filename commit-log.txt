@@ -1,0 +1,4 @@
+dcd3478 first commit
+38834a2 Initial commit after fixing socket chat
+f7fa8c7 Fixed some errors
+c0979b0 Initial commit with project files
