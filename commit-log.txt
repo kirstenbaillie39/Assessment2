@@ -1,4 +1,29 @@
-dcd3478 first commit
-38834a2 Initial commit after fixing socket chat
-f7fa8c7 Fixed some errors
-c0979b0 Initial commit with project files
+commit a0c01c0d1359943a708a7c51db7b07a95e33793f
+Author: KIRSTEN BAILLIE <k.baillie.24@abdn.ac.uk>
+Date:   Tue Apr 22 22:25:05 2025 +0000
+
+    Added join/leave activity notifications and improved chat styling
+
+commit dcd3478bc99279a09fe33d82563e62696dfa0461
+Author: KIRSTEN BAILLIE <k.baillie.24@abdn.ac.uk>
+Date:   Tue Apr 22 00:55:10 2025 +0000
+
+    first commit
+
+commit 38834a26c6654924e6e1a695bb34e21c9859414b
+Author: KIRSTEN BAILLIE <k.baillie.24@abdn.ac.uk>
+Date:   Tue Apr 22 00:47:25 2025 +0000
+
+    Initial commit after fixing socket chat
+
+commit f7fa8c7f89e1af65cb6f24159c66e158f48a9e2b
+Author: KIRSTEN BAILLIE <k.baillie.24@abdn.ac.uk>
+Date:   Mon Apr 21 20:46:11 2025 +0000
+
+    Fixed some errors
+
+commit c0979b07145f2582e6bf249b7b7e0a3715a6f797
+Author: KIRSTEN BAILLIE <k.baillie.24@abdn.ac.uk>
+Date:   Mon Apr 21 20:00:20 2025 +0000
+
+    Initial commit with project files
